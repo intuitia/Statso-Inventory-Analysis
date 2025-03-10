@@ -1,2 +1,1 @@
-# Statso-Inventory-Analysis
-A Supply Chain Data Analytics Project
+An Inventory Analysis Project
